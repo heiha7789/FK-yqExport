@@ -100,10 +100,6 @@ def create_dir(name, parent_dir):
     os.makedirs(directory, exist_ok=True)
     return directory
 
-
-save_dir = ""
-save_assets_dir = ""
-
 # 整体处理
 def process_data(repo_id,data,current_dir,current_assets_dir):
     for uuid, item in data.items():

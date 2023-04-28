@@ -10,15 +10,15 @@
 python3 FK-yqExport.py
     选择一个需要导出的数据库，然后回车。
  
-# 本地目录存储示例：
-YuqueExport
-    知识库名称文件夹
-        assets文件夹
-        test.md
-        一级文件夹
-            assets文件夹
-            test.md
-            二级文件夹
-                assets文件夹
-                test.md
+# 本地目录存储示例：不包含文件夹字样及\r\n
+YuqueExport\r\n
+    知识库名称文件夹\r\n
+        assets文件夹\r\n
+        test.md\r\n
+        一级文件夹\r\n
+            assets文件夹\r\n
+            test.md\r\n
+            二级文件夹\r\n
+                assets文件夹\r\n
+                test.md\r\n
                 。。。。。。
